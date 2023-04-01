@@ -1,6 +1,4 @@
-Bhaveesh Beemireddy
-Project0 - Simple OpenMP Experiment
-3/31/2023
+Bhaveesh Beemireddy - Project0 - Simple OpenMP Experiment - 3/31/2023
 
 After running the bash script:
 
