@@ -14,6 +14,6 @@ For 4 threads, Peak Performance =   685.11 MegaMults/Sec
 
 Speedup = 3.937
 
-Parrallel-Fraction = (4 / 3) * (1 - (1/Speedup))
+Parallel-Fraction = (4 / 3) * (1 - (1/Speedup))
 
-Parrallel-Fraction = 0.994666
+Parallel-Fraction = 0.994666
