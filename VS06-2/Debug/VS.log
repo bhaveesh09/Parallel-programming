@@ -1,0 +1,14 @@
+﻿  proj06.cpp
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(123,1): error C2059: syntax error: '?'
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(131,1): error C2059: syntax error: '?'
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(182,1): error C2059: syntax error: '?'
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(187,29): error C2143: syntax error: missing ';' before '{'
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(187,55): error C2143: syntax error: missing ';' before '}'
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(198,35): error C2143: syntax error: missing ')' before '?'
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(198,35): error C2660: 'clEnqueueNDRangeKernel': function does not take 0 arguments
+Y:\OpenCL\MatrixMult\VS06\cl.h(821,1): message : see declaration of 'clEnqueueNDRangeKernel'
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(198,36): error C2059: syntax error: '?'
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(208,42): error C2065: 'dC': undeclared identifier
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(230,26): error C2065: 'dB': undeclared identifier
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(231,26): error C2065: 'dMW': undeclared identifier
+Y:\OpenCL\MatrixMult\VS06\proj06.cpp(232,26): error C2065: 'dC': undeclared identifier
